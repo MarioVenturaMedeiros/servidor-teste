@@ -1,0 +1,15 @@
+{
+  "name": "servidor-teste",
+  "version": "1.0.0",
+  "main": "./backend/app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Mario",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  }
+}
