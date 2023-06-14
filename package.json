@@ -1,7 +1,7 @@
 {
   "name": "servidor-teste",
   "version": "1.0.0",
-  "main": "./backend/app.js",
+  "main": "/app.js",
   "scripts": {
     "start": "node app.js"
   },
