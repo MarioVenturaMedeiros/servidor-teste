@@ -76,5 +76,5 @@ app.post('/novocadastro', (req, res) => {
 });
 
 app.listen(3001, function () {
-    console.log("Servidor rodando na URL: http://localhost:3001");
+    console.log("Servidor rodando na URL: http://localhost:3000");
 });
